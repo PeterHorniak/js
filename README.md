@@ -1,0 +1,2 @@
+# js-cryptic
+Learning javascript
